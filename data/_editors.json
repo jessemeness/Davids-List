@@ -1,13 +1,13 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "list owner",
+        "name": "Jesse",
+        "link": "https://www.youtube.com/@IJesseI"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "david",
+        "name": "Sharko",
+        "link": "https://www.youtube.com/@Sharko_"
     },
     {
         "role": "helper",
